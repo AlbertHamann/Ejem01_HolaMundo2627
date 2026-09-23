@@ -18,3 +18,6 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 ---
 
 [Gregorio Fernandez](gregoriofer.com)
+
+
+| version | Modificacion | Propietario de la modificacion |
