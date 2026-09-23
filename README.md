@@ -33,3 +33,8 @@ Esta nota tiene pie. [^1]
 - [x] Cambiar el formato
 - [ ] Update the website
 - [ ] Contact the media
+
+---
+---
+---
+Modificacion realizada en windows
