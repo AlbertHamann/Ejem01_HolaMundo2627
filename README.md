@@ -8,7 +8,7 @@ El conjunto de tareas que tenemos que realizar es:
 2. Inicializarlo
 3. Hacer comit
 
-   Hemos colabrorado en el proyecto:
-   -Pedro
-   -Lucas
-   -Ana
+Hemos colabrorado en el proyecto:
+- Pedro
+- Ana
+- Lucas
