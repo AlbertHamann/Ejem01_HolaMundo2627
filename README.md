@@ -27,3 +27,5 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 Esta nota tiene pie. [^1]
 
 [^1]: Este es el pie de la nota.
+
+	### Este es un encabezado {#custom-id}
