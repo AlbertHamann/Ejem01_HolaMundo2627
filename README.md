@@ -21,3 +21,5 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 
 
 | version | Modificacion | Propietario de la modificacion |
+|---|---|---|
+| 1.0 | Creacion del readme| Albert Hamann |
