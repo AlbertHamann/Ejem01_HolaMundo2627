@@ -14,3 +14,7 @@ Hemos colabrorado en el proyecto:
 - Lucas
 
 Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `<h1></h1>` los coloca con una almohadilla.
+
+---
+
+[Gregorio Fernandez](gregoriofer.com)
