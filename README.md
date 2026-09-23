@@ -28,4 +28,4 @@ Esta nota tiene pie. [^1]
 
 [^1]: Este es el pie de la nota.
 
-	### Este es un encabezado {#custom-id}
+### Este es un encabezado {#custom-id}
