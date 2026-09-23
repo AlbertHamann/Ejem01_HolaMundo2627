@@ -29,3 +29,7 @@ Esta nota tiene pie. [^1]
 [^1]: Este es el pie de la nota.
 
 ### Este es un encabezado {#custom-id}
+
+- [x] Cambiar el formato
+- [ ] Update the website
+- [ ] Contact the media
